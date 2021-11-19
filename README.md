@@ -1,0 +1,2 @@
+# firstProject
+for study git
